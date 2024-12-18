@@ -8,12 +8,11 @@ I am a Sophomore at the Auburn University Honors College with a profound interes
 My journey in computer science has led me to develop a great interest in cybersecurity, so I am looking for entry level experience as a college student in cybersecurity or a related field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Virtualization Setup and Configuration        | <a href="https://google.com](https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com](https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -53,5 +52,4 @@ My journey in computer science has led me to develop a great interest in cyberse
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://google.com](https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>
