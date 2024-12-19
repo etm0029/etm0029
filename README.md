@@ -5,7 +5,7 @@ I am a Sophomore at the Auburn University Honors College with a profound interes
 
 ## Objective
 
-My journey in computer science has led me to develop a great interest in cybersecurity, so I am looking for entry level experience as a college student in cybersecurity or a related field.
+My journey in computer science has led me to develop a great interest in cybersecurity, so I am looking for entry level internship experience as a college student in cybersecurity or a related field.
 
 ## Skills
 
