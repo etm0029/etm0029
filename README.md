@@ -13,8 +13,8 @@ My journey in computer science has led me to develop a great interest in cyberse
 |-----------------------------------------------|----------------------------|
 | Virtualization Setup and Configuration        | <a href="https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>|
-| Penetration Testing         | <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a> |
-| Incident Response Planning and Execution      | <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a>|
+| Penetration Testing                           | <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a> |
+| Threat Analysis                               | <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -53,3 +53,4 @@ My journey in computer science has led me to develop a great interest in cyberse
 
 ## Projects
 - <a href="https://google.com](https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>
+- <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a>
