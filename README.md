@@ -1,7 +1,7 @@
 # Hello, I'm Ethan
 
 
-I am a Sophomore at the Auburn University Honors College with a profound interest in technology and solving problems with an eagerness to learn.
+I am a Junior at the Auburn University Honors College with a profound interest in technology and solving problems with an eagerness to learn.
 
 ## Objective
 
