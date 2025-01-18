@@ -20,3 +20,4 @@ My journey in computer science has led me to develop a great interest in cyberse
 ## Projects
 - <a href="https://google.com](https://github.com/etm0029/Home-Lab-Setup/tree/main">Home Lab Setup</a>
 - <a href="https://github.com/etm0029/Metasploitable-Hacking">Metasploitable Hacking</a>
+- <a href="https://github.com/etm0029/Building-a-SIEM">Building a SIEM</a>
